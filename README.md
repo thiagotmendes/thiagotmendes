@@ -7,7 +7,7 @@ I'm a software engineer with over 10 years of experience in web development. I s
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagotmendes/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:thiagotmendes@outlook.com)
 
 ## GitHub Stats
 
