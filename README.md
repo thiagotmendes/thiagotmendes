@@ -30,4 +30,4 @@ I'm a software engineer with over 10 years of experience in web development. I s
 
 ## Contact
 
-For professional opportunities or collaborations, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/thiagotmendes/) or [email](mailto:your-email@example.com).
+For professional opportunities or collaborations, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/thiagotmendes/) or [email](mailto:thiagotmendes@outlook.com).
