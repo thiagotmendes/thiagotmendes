@@ -45,21 +45,32 @@ Always learning, collaborating on innovative projects, and sharing knowledge.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" alt="Drupal" width="40" />
 </p>
 
----
-
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagotmendes&show_icons=true&theme=dracula" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotmendes&layout=compact&theme=dracula" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagotmendes&theme=dracula" height="180"/>
+<div align="center">
+
+  <!-- GitHub Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagotmendes&show_icons=true&theme=dracula" height="165" alt="Stats"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotmendes&layout=compact&theme=dracula" height="165" alt="Top Langs"/>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagotmendes&theme=dracula" height="165" alt="Streak Stats"/>
+
+</div>
+
+<br/>
+
+<!-- Activity Graph (opcional, remova se não carregar bem) -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiagotmendes&theme=dracula" alt="Activity Graph" />
 </p>
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=thiagotmendes&theme=dracula)
 
----
 
 ## ⭐️ Featured Projects
 
