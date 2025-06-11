@@ -18,11 +18,18 @@
 
 ## 👨‍💻 About Me
 
-- 🧑‍💻 **Software Engineer** with over 10 years of experience in web development  
-- 💻 **Languages:** PHP, JavaScript, HTML, CSS  
-- 🚀 **Frameworks/CMS:** Laravel, WordPress (themes & plugins), basic Drupal  
-- 🧩 Always exploring new technologies and best practices  
-- ☕️ Fuelled by coffee & a passion for building robust systems  
+I'm a software engineer with 10+ years of experience, specializing in modern backend development and robust API architectures.  
+My main stack includes PHP (Laravel, Hyperf), microservices, automation, and cloud solutions (AWS/S3).  
+I'm passionate about software engineering best practices, automated testing, clear documentation, and building scalable systems.
+
+**Current focus:**
+- Hexagonal Architecture and Domain Driven Design (DDD)
+- Microservices implementation and messaging (Redis, queues)
+- Performance optimization, automated testing, and CI/CD
+- AWS integration (S3, backup automation)
+- Technical mentoring and contributing to the dev community
+
+Always learning, collaborating on innovative projects, and sharing knowledge.
 
 ---
 
@@ -30,7 +37,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
