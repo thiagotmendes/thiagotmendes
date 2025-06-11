@@ -50,9 +50,14 @@ Always learning, collaborating on innovative projects, and sharing knowledge.
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagotmendes&show_icons=true&theme=dracula" alt="Thiago's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotmendes&layout=compact&theme=dracula" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagotmendes&show_icons=true&theme=dracula" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotmendes&layout=compact&theme=dracula" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagotmendes&theme=dracula" height="180"/>
 </p>
+
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=thiagotmendes&theme=dracula)
 
 ---
 
