@@ -1,4 +1,3 @@
-<!-- Banner animado no topo (opcional) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Olá,%20eu%20sou%20Thiago%20Mendes!&fontSize=35&animation=fadeIn" alt="banner" />
 </p>
@@ -52,25 +51,17 @@
 
 ## ⭐️ Featured Projects
 
-| Projeto | Descrição | Tecnologias | Estado |
-| ------- | --------- | ----------- | ------ |
-| [**Marvel Comic Compendium**](https://github.com/thiagotmendes/marvel-comic-compendium) | App TypeScript que lista e detalha quadrinhos da Marvel. | TypeScript, React, API REST | Em desenvolvimento |
-
-<!-- Sugestão: Adicione mais projetos com links, descrição, stack e status caso queira -->
+| Project | Description | Stack | Status |
+| ------- | ----------- | ----- | ------ |
+| [**Marvel Comic Compendium**](https://github.com/thiagotmendes/marvel-comic-compendium) | Application that lists and details Marvel comics. | TypeScript, React, REST API | WIP |
+| [**Tech Challenge Restaurante API**](https://github.com/thiagotmendes/tech-challenge-restaurante-api) | API to manage restaurant orders using Hexagonal Architecture and Domain Driven Design. | Laravel, PHP, MySQL, Redis | Active |
+| [**Schedule Service App**](https://github.com/thiagotmendes/schedule-service-app) | Microservice for service scheduling and appointments, with automated backups and AWS integration. | Laravel, PHP, MySQL, S3 | Active |
+| [**Hyperf Salon API**](https://github.com/thiagotmendes/hyperf-salon-api) | High-performance API for managing beauty salons, built with Hyperf. | Hyperf, PHP, MySQL, Redis | Active |
+| [**Travel App API**](https://github.com/thiagotmendes/travel-app-api) | Corporate travel order management API, JWT authentication, role control, Swagger docs. | Laravel, PHP, JWT, Swagger | Active |
 
 ---
 
 ## 📫 Contact
 
-Para oportunidades profissionais ou colaborações, entre em contato:
-
-- [LinkedIn](https://www.linkedin.com/in/thiagotmendes/)
-- [E-mail](mailto:thiagotmendes@outlook.com)
-
----
-
-<!-- Widgets divertidos: descomente se quiser usar -->
-
-![Snake animation](https://github.com/thiagotmendes/thiagotmendes/blob/output/github-contribution-grid-snake.svg)
-
+For professional opportunities or collaborations, reach out via [LinkedIn](https://www.linkedin.com/in/thiagotmendes/) or [Email](mailto:thiagotmendes@outlook.com).
 
